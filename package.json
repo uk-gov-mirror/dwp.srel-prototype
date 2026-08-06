@@ -24,6 +24,7 @@
     "brace-expansion": "1.1.18",
     "uuid": "14.0.0",
     "form-data": "4.0.6",
+    "immutable": "4.3.9",
     "socket.io-parser": "4.2.7",
     "then-request": {
       "form-data": "4.0.6"
